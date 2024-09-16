@@ -4,7 +4,7 @@ import { assets } from "../../assets/assets";
 import { Link } from "react-router-dom";
 import { StoreContext } from "../../Context/StoreContaxt";
 
-function navbar({ setShowLogin }) {
+function Navbar({ setShowLogin }) {
   const [menu, setMenu] = useState("menu");
 
   const { getTotalCardAmount } = useContext(StoreContext);
@@ -58,4 +58,4 @@ function navbar({ setShowLogin }) {
   );
 }
 
-export default navbar;
+export default Navbar;
