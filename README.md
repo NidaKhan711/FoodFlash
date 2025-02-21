@@ -1,8 +1,66 @@
-# React + Vite
+Food Delivery Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully functional Food Delivery Website built with Vite + React.js and styled with CSS.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Browse different food items 🥘🍔
+
+Add items to the cart 🛒
+
+Responsive UI 📱💻
+
+Simple and clean design ✨
+
+Fast performance with Vite ⚡
+
+🛠 Tech Stack
+
+Frontend: Vite + React.js
+
+Styling: CSS
+
+📌 Installation
+
+Clone the repository:
+
+git clone https://github.com/NidaKhan711/FoodFlash.git
+
+Navigate to the project directory:
+
+cd food-delivery-website
+
+Install dependencies:
+
+npm install
+
+Run the application:
+
+npm run dev
+
+Open your browser and visit:
+
+http://localhost:5173
+
+📷 Screenshots
+
+Add some screenshots here if needed
+![Screenshot 2025-02-21 134757](https://github.com/user-attachments/assets/1f1c8780-1af8-4e3b-a479-3aac6b584c99)
+
+
+📦 Deployment
+
+To deploy on Vercel:
+
+Install Vercel CLI:
+
+npm install -g vercel
+
+Run deployment command:
+
+vercel
+
+📞 Contact
+
+For any inquiries, contact me at: nida711711@gmail.com
+
